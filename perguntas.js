@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Programação',
     'O que é um loop?',
     'Uma estrutura que repete um bloco de código'
 )
